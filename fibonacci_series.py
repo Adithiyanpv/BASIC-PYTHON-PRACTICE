@@ -12,4 +12,4 @@ else:
         n1 = n2
         n2 = nth
         count += 1
-printf("Hence the generated fibonacci sequence = ,{nterms}")
+
